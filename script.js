@@ -1,4 +1,3 @@
-// --- Particle.js Config ---
 particlesJS('particles-js', {
   particles: {
       number: { value: 80 },
