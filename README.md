@@ -7,3 +7,4 @@ Thanks :),
 
 #UPDATE 1
 In few days I'll be uploading some new features to my website and buy a domain for it.
+added my CV to the page.
